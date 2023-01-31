@@ -2,7 +2,7 @@
 - I’m a student at faculty of artificial intelligence.
 - I’m interested in data analysis field.
 - 👀 I’m interested in AI field
-- 🌱 I’m currently Data analysis and ml.
+- 🌱 I’m currently  studying Data analysis and ml.
 - How to reach me 
 nourhanelsabawy@gmail.com
 <!---
