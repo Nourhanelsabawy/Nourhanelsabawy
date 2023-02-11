@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nourhan elsabawy </h1>
 <h3 align="center">Front End intership @iti | DSA core team mamber @ GDSC  </h3>
-<img align="right" height="250" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img align="right" height="250" width="400" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photo%2Fyoung-woman-working-laptop-with-win-gesture-posing-isolated-turquoise-wall_14529548.htm&psig=AOvVaw0mfaHa5SHyKWyz73giTXz4&ust=1676214050737000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPC0_Jbejf0CFQAAAAAdAAAAABAJ" />
 
 - 📫 How to reach me **nourhanelsabawy@gmail.com**
 
