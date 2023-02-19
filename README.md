@@ -22,7 +22,6 @@
 <a href="https://www.linkedin.com/in/nourhan-elsabawy-71b674227/">
 <img height="32" width="32" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/600px-LinkedIn_logo_initials.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://codeforces.com/profile/Noury."><img height="32" width="32" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
 
 <div align="center">
