@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nourhan elsabawy </h1>
-<h3 align="center">Front End intership @iti | DSA core team mamber @ GDSC  </h3>
+<h3 align="center">Interested in BI and data analysis , BI intership @ ITI  </h3>
 <img align="right" height="250" width="400" src="https://previews.123rf.com/images/thelivephotos/thelivephotos2101/thelivephotos210100455/162385937-young-smiling-caucasian-brunette-woman-dressed-in-orange-sweater-holds-laptop-with-blank-white-scree.jpg" />
 
 - 📫 How to reach me **nourhanelsabawy@gmail.com**
