@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nourhan elsabawy </h1>
-<h3 align="center">Interested in BI and data analysis , BI intership @ ITI  </h3>
+<h3 align="center">Iam a Junior Data Analyst , BI intership @ ITI  </h3>
 
 - 📫 How to reach me **nourhanelsabawy@gmail.com**
 
