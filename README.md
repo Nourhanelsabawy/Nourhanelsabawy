@@ -2,8 +2,9 @@
 <h3 align="center">Iam a Junior Data Analyst , BI intership @ ITI  </h3>
 
 - 📫 How to reach me **nourhanelsabawy@gmail.com**
-
-<img  src="https://img.freepik.com/free-vector/confused-woman-working-laptop-cartoon-icon-illustration-people-technology-icon-concept_138676-2125.jpg"/>
+<img src="https://img.freepik.com/free-vector/confused-woman-working-laptop-cartoon-icon-illustration-people-technology-icon-concept_138676-2125.jpg"
+         alt="Confused Woman"
+         style="display: block; margin-left: auto; margin-right: auto;">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nourhan-elsabawy-71b674227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
