@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **nourhanelsabawy@gmail.com**
   <br>
-<img  src="https://img.freepik.com/free-vector/confused-woman-working-laptop-cartoon-icon-illustration-people-technology-icon-concept_138676-2125.jpg" align="center" />
+<img  src="https://miro.medium.com/v2/resize:fit:1400/0*qRXx9KS7KL-j3wfr" align="center" />
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nourhan-elsabawy-71b674227/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
