@@ -19,7 +19,7 @@
 
 🎓 Afretec Summer School Trainee @AUC
 
-📄 Take a look at my <a href="https://drive.google.com/file/d/1DPwI7h3m3Enm9LvUol2Ij2JNUBapa6Pq/view?usp=sharing" target="_blank">CV</a>
+📄 Take a look at my <a href="https://drive.google.com/file/d/1nsQRWZuWSdwiiaKqHlVn20MvWirZA_F8/view?usp=sharing" target="_blank">CV</a>
 
 ⚡ Fun fact: Food 🍲 and music 🎶 keep me energized and inspired.
 <br>
