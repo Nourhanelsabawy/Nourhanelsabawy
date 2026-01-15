@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nourhan M. Elsabawy</h1>
-<h3 align="center">  Data Analytics Engineer 🌟</h3>
+<h3 align="center"> Data Analytics Engineer @4Sale | Certified PL300 , DP600 & DP900 </h3>
 <br>
 <p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=Nourhanelsabawy&label=Profile%20views&color=0e75b6&style=flat"
     alt="nourhan" /> 
@@ -7,18 +7,14 @@
 <br>
 <p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
 
-💡 A data enthusiast with a Bachelor's degree in Artificial Intelligence (GPA: 3.82/4)
+💡 A data enthusiast with a Bachelor's degree in Artificial Intelligence (GPA: 3.85/4)
 
 🎓 Woman TechMaker Ambassador 
 
 🎓 Microsoft Beta Student Ambassador 
 
 📫 Contact me at: nourhanelsabawy@gmail.com
-
-🎓 Certified Microsoft Fabric Analytics Associate
-
-🎓 Afretec Summer School Trainee @AUC
-
+ 
 📄 Take a look at my <a href="https://drive.google.com/file/d/1nsQRWZuWSdwiiaKqHlVn20MvWirZA_F8/view?usp=sharing" target="_blank">CV</a>
 
 ⚡ Fun fact: Food 🍲 and music 🎶 keep me energized and inspired.
@@ -73,15 +69,3 @@
 
 <br>
 
-<h3>Statistical Data :-</h3>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Nourhanelsabawy&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=convoychat"
-    alt="adam-pw" /></p>
-
-<br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nourhanelsabawy&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
